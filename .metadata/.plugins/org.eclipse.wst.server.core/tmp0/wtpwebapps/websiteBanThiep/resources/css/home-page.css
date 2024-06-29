@@ -1,0 +1,33 @@
+/* SLIDER */
+.h-content {
+	margin-top: 160px;
+}
+
+.slider {
+	background-image:
+		url("/websiteBanThiep/resources/img/banner.jpg");
+	margin-bottom: 50px;
+	padding-top: 35%;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: inherit;
+}
+
+/* CONTENT: FILL BANNER LINK */
+.fill-banner-link {
+	display: block;
+	height: 150px;
+	border: 1px solid #333;
+}
+
+/* present product and pricing table */
+.present-product {
+	height: 150px;
+	border: 1px solid #333;
+}
+
+.pricing-table {
+	height: 150px;
+	border: 1px solid #333;
+}
+
